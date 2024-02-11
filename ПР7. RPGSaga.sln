@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПР7. RPGSaga", "ПР7. RPGSaga\ПР7. RPGSaga.csproj", "{32167D95-B12E-428A-BCF6-9F7991A396DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32167D95-B12E-428A-BCF6-9F7991A396DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32167D95-B12E-428A-BCF6-9F7991A396DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32167D95-B12E-428A-BCF6-9F7991A396DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32167D95-B12E-428A-BCF6-9F7991A396DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E93BEF-890E-43E6-956B-14F3D45AA042}
+	EndGlobalSection
+EndGlobal
